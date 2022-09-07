@@ -1,5 +1,9 @@
 Agustín Cordero Full Stack - Dev Ops
 
+- GIT
+- VSCODE
+- Visual Studio
+
 Conocimientos desarrollo:
   * html
   * css
