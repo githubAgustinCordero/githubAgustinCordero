@@ -16,6 +16,8 @@ Conocimientos desarrollo:
   * angular
   * react
   * nodejs
+  * .NET Framework/Core
+  * AI
 
 Conocimientos base de datos:
  * mssql
@@ -28,5 +30,6 @@ Conocimientos Web3:
  * chainlink
  * ether.js
  * web3.js
+
  
  Conocimientos de hardware avanzados
